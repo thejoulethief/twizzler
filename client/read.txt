@@ -1,0 +1,9 @@
+12/12/2018
+
+Fullstack twitter-like clone.
+
+Using vanilla JS, mongoDB and nodeJS.
+
+Based on the coding garden tutorial. But I'm adapting it to my own ideas.
+
+

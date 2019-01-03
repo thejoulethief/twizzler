@@ -1,0 +1,66 @@
+body {
+  display: flex;
+  background-color: #e6ecf0;
+}
+
+.main {
+  background-color: white;
+  width: 70%;
+  margin: auto;
+}
+
+h2 {
+  text-align: center;
+}
+
+span {
+  color: #1dcaff;
+}
+
+.username {
+  display: inline !important;
+}
+.time {
+  color: gray;
+  font-size: 1.2rem;
+}
+
+.small {
+  font-size: 12px;
+}
+
+.u-full-width {
+  width: 80%;
+}
+
+.twizz {
+  width: 50%;
+  margin: auto;
+}
+
+.loading {
+  margin: 5rem;
+}
+
+.gif {
+  text-align: center;
+}
+
+.posts {
+  width: 60%;
+  margin: 10rem auto;
+}
+
+.post {
+  margin: 3rem;
+  padding: 10px;
+  border: 3px solid #1dcaff;
+  border-radius: 3rem;
+  overflow: hidden;
+}
+
+.posts h3 {
+  font-size: 3rem;
+  display: inline !important;
+  margin-right: 0.5rem;
+}
